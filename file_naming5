@@ -1,0 +1,4 @@
+$if2(%albumartist%,%artist%)/
+%album% $if(%date%,\($left(%date%,4)\))/
+$if($gt(%totaldiscs%,1),$if(%discsubtitle%,CD %discnumber%: %discsubtitle%/, CD %discnumber%/),)
+$num(%tracknumber%,2) - %albumartist% - %title%
