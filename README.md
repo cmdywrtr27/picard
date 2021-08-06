@@ -14,3 +14,4 @@
 <p>/CD 1: HIStory Begins</p>
 <p>/04 - Michael Jackson - Rock With You.mp3 (ending filename)</p>
 <p>*note that only 'file_naming' will create this folder structure, other config files (e.g. file_naming2, file_naming3, etc.) will create similar variations</p>
+<p>lastly, none of these are mine. i just found them by researching and changing a line or two to suit my needs</p>
